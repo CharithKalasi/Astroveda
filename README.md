@@ -131,12 +131,3 @@ if ($conn->connect_error) {
 4. Update DB credentials in `conn.php`
 5. Access via `http://localhost/astrovedaProject/`
 
----
-
-## 🤝 Contributing
-PRs and issues welcome. Keep commits modular and test business logic.
-
----
-
-## 📄 License
-MIT (or project-specific). Add your license file if different.
